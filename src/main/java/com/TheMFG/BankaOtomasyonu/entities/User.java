@@ -31,7 +31,6 @@ public class User implements UserDetails, Principal {
 
     private String name;
     private String lastName;
-    private String dniNumber;
     private String tcNo;
     private String email;
     private String password;
